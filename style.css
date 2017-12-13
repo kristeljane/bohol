@@ -1,0 +1,123 @@
+body{
+    font-family: Arial, "Century Gothic", Verdana;
+    text-align: center;
+    background-color:lightblue;
+    
+    
+}
+.wrapper{
+    width:80%;
+    height: 700px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:0px;
+    margin-bottom:0px;
+   
+}
+   
+
+.header{
+    height: 150px;
+    width: 100%;
+    color:white;
+    margin-bottom: 4px;
+}
+    
+.logo{
+    height:100px;
+    background-color:blueviolet;
+    width: 100%;
+   
+}
+.nav{
+    height:50px;
+    background-color:seagreen;
+    width: 100%;
+    margin-bottom:25px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.content{
+    width:100%;
+   
+}
+.content1{
+   
+    background-color:aqua;
+    height:400px;
+    width:72%;
+    float:left;
+    color:white;
+    margin-right: 3px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-bottom: 4px;
+}
+.sidebar1{
+   
+    background-color:#FA8072;
+    height:300px;
+    width:27%;
+    float:right;
+    color:white;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-bottom: 4px;
+}
+.sidebar2{
+    background-color:#DAA520;
+    height:300px;
+    width:27%;
+    float:right;
+    color:white;
+    text-align: center;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-bottom: 4px;
+}
+.sidebar3{
+    background-color:#FFFF99;
+    height:150px;
+    width:27%;
+    float:right;
+    color:brown;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;   
+}
+.article{
+    background-color:	#FDFF00;
+    height:400px;
+    width:72%;
+    float:left;
+    margin-right:4px;
+    color:brown;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.footer{
+    
+    background-color:darkblue;
+    height:50px;
+    float:left;
+    width:100%;
+    text-align: left;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
